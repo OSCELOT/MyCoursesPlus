@@ -1,6 +1,10 @@
 # MyCoursesPlus
 Legacy Seneca MyCoursesPlus B2
 
+vendor sen 
+handle coursesplus 
+version 9.5.2
+
 Should work with OpenJDK11
 
 Note: Seneca College is no longer using and maintaining the Building Blocks.
