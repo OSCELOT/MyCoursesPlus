@@ -3,6 +3,8 @@ Legacy Seneca MyCoursesPlus B2
 
 Should work with OpenJDK11
 
+Note: Seneca College is no longer using and maintaining the Building Blocks.
+
 README:
 
 - version 9.5.0
